@@ -3,9 +3,12 @@ Cowboy runner game from following Udemy lecture, that I tweaked a lot to make wa
 
 This is published on Google Play under my company "terrafractis" as "Wild Dead Runner"
 
-three taps for jump type
+three taps for jump type:
+
 1st tap, jump straight up
+
 2nd tap, while in air, shoots forward
+
 3rd tap, while still in air, drives down to time landings
 
 Don't touch the Zombies!
