@@ -20,3 +20,5 @@ You won't get out alive.
 You can, fall off the edge of the world on the right side and character won't die but will be gone. good way to cheat for points.
 
 The music I added gives it a real happy peppy feeling :D
+
+![alt-text](https://github.com/TriphiusFire/Wild-Dead-Runner/blob/master/gameplay2.png?raw=true)
