@@ -1,4 +1,7 @@
 # Wild-Dead-Runner
+
+Get it on Google Play: https://play.google.com/store/apps/details?id=com.Terrafractis.WildDeadRunner
+
 Cowboy runner game from following Udemy lecture, that I tweaked a lot to make way more fun, for Android
 
 This is published on Google Play under my company "terrafractis" as "Wild Dead Runner"
